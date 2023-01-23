@@ -1,0 +1,31 @@
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\bin\Debug\ConsultasMVC.exe.config
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.csprojResolveAssemblyReference.cache
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.Properties.Resources.resources
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.Views.ClienteView.resources
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.GenerateResource.Cache
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\bin\Debug\ConsultasMVC.exe
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\bin\Debug\ConsultasMVC.pdb
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.exe
+D:\Programacion\YT Cursos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.pdb
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\bin\Debug\ConsultasMVC.exe.config
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\bin\Debug\ConsultasMVC.exe
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\bin\Debug\ConsultasMVC.pdb
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.AssemblyReference.cache
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.Properties.Resources.resources
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.Views.ClienteView.resources
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.GenerateResource.cache
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.CoreCompileInputs.cache
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.exe
+C:\Users\geron\source\repos\MVC-WinForm-Buscar-Filtrar-Datos\ConsultasMVC\obj\Debug\ConsultasMVC.pdb
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\bin\Debug\ConsultasMVC.exe.config
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\bin\Debug\ConsultasMVC.exe
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\bin\Debug\ConsultasMVC.pdb
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.AssemblyReference.cache
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.Properties.Resources.resources
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.Views.ClienteView.resources
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.GenerateResource.cache
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.csproj.CoreCompileInputs.cache
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.exe
+C:\Users\geron\source\repos\ConsultasMVC\ConsultasMVC\obj\Debug\ConsultasMVC.pdb
